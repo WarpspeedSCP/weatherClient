@@ -40,7 +40,8 @@ Enter an option from the following to get the relevant data for any date between
 Press 1 to get the weather for a particular date.
 Press 2 to get wind speed for a particular date.
 Press 3 to get pressure data for a particular date.
-Press 0 to exit.\n"""
+Press 0 to exit.
+"""
 
     print(introMsg)
 
